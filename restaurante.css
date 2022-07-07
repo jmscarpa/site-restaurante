@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  display: flex;
+  background-image: linear-gradient(to right, #f5e1c1 0%, #f5d8c7 100%);
+  align-items: center;
+  padding: 10em;
+}
+
+#header .content {
+  flex: 2;
+}
+
+#header img {
+  flex: 1;
+}
